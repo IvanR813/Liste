@@ -1,4 +1,4 @@
-Ovaj projekat sadrži implementaciju osnovnih operacija nad dvostruko spregnutom listom u programskom jeziku C.
+Ovaj projekat sadrži implementaciju osnovnih operacija nad dvostruko spregnutom ulancanom listom u programskom jeziku C.
 
 Operacije koje su implementirane su:
 
